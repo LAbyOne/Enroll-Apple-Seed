@@ -6,8 +6,8 @@ Little tool to enroll Apple's Developer Seeds
 #
 <img src="media/enroll.png" width="418" height="273">
 #
-##
+
 [Download](https://github.com/LAbyOne/Enroll-Apple-Seed/releases)
-##
+
 
 
