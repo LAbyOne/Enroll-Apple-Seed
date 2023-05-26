@@ -3,7 +3,7 @@
 # Enroll-Apple-Seed
 Little tool to enroll Apple's Developer Seeds
 #
-Support Ventura
+Latest Ventura supported 13.3.1
 #
 <img src="media/enroll.png" width="418" height="273">
 
